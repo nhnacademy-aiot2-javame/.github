@@ -29,3 +29,5 @@
     <td align="center"><a href="https://github.com/ygw1026">@ygw1026</a></td>
   </tr>
 </table>
+
+<div align="center"> NHN Academy 백엔드 프로젝트 3팀 입니다.</div>
