@@ -1,4 +1,4 @@
-<h1>🤝날 자바 줘(JavaMe)</h1>
+<h1 align="center">🤝날 자바 줘(JavaMe)</h1>
 
 <table align="center" border="1">
   <tr>
