@@ -31,3 +31,22 @@
 </table>
 
 <div align="center"> NHN Academy 백엔드 프로젝트 3팀 입니다.</div>
+
+
+ <br>
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nhnacademy-aiot1-5&repo=front-service)](https://github.com/nhnacademy-aiot2-javame/javame-frontend)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nhnacademy-aiot1-5&repo=api-service)](https://github.com/nhnacademy-aiot2-javame/javame-auth-api)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nhnacademy-aiot1-5&repo=ai-service)](https://github.com/nhnacademy-aiot2-javame/javame-eureka)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nhnacademy-aiot1-5&repo=rule-engine)](https://github.com/nhnacademy-aiot2-javame/javame-trans-service)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nhnacademy-aiot1-5&repo=bridge-server)](https://github.com/nhnacademy-aiot2-javame/javame-gateway)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nhnacademy-aiot1-5&repo=batch-server)](https://github.com/nhnacademy-aiot2-javame/javame-member-api)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nhnacademy-aiot1-5&repo=control-service)](https://github.com/nhnacademy-aiot2-javame/javame-warnify-service)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nhnacademy-aiot1-5&repo=auth-service)](https://github.com/nhnacademy-aiot2-javame/javame-rule-api)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nhnacademy-aiot1-5&repo=gateway-service)](https://github.com/nhnacademy-aiot2-javame/javame-environment-api)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nhnacademy-aiot1-5&repo=discovery-service)](https://github.com/nhnacademy-aiot2-javame/javame-ai-prediction)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nhnacademy-aiot1-5&repo=discovery-service)](https://github.com/nhnacademy-aiot2-javame/javame-mqtt)
+</div>
+
+<br>
+
