@@ -86,9 +86,15 @@
 
 <br>
 </div>
+
+<div align=center>
 </br>
 </br>
 </br>
 <h2 align="center"> 🍉 프로젝트</h2>
+<br>
+
+![스크린샷 2025-05-12 15-09-40](https://github.com/user-attachments/assets/c233e936-7909-4957-a89d-a27b8af9e251)
+
 
 </div>
