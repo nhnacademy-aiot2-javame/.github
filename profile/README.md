@@ -93,11 +93,22 @@
 </br>
 <h2 align="center"> 🍉 프로젝트</h2>
 <br>
-
+[System Architecture]
+</br>
+  
 ![스크린샷 2025-05-12 15-09-40](https://github.com/user-attachments/assets/c233e936-7909-4957-a89d-a27b8af9e251)
 </br>
+--- 우리 시스템 전체에 대한 흐름 설명 적기--</br>
+--클라이언트의 요청은 뭐로 들어오고 어떤 서비스들이 유레카에 등록되어서 gateway에 도착한 요청을 처리하는지---
 </br>
 
 ![image](https://github.com/user-attachments/assets/3e7e17ba-4ad7-423c-88e2-0a5894c36696)
 
 </div>
+<h2>Project Management</h2>
+WBS
+- wbs 캡쳐본 추가
+</br>
+Kanban Board
+- GitHub Project 칸반보드 캡쳐본 추가
+
