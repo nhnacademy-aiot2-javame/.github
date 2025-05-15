@@ -33,6 +33,7 @@
   </tr>
 </table>
 <br/>
+</div>
 <div align="center"> NHN Academy 백엔드 프로젝트 3팀 입니다.</div>
 <br/>
 <br/>
@@ -106,9 +107,14 @@
 
 </div>
 <h2>Project Management</h2>
-WBS
-- wbs 캡쳐본 추가
+<h3 tabindex="-1" class="heading-element" dir="auto">WBS</h3>
+- googleSpreadsheet를 이용한 일정 관리(2025.05.12 기준)
+
+![image](https://github.com/user-attachments/assets/dcffb4fb-0715-4d80-8987-c3db3e7251e2)
+
 </br>
-Kanban Board
-- GitHub Project 칸반보드 캡쳐본 추가
+</br>
+<h3 tabindex="-1" class="heading-element" dir="auto">Kanban Board</h3>
+- GitHub Project 칸반보드 캡쳐본 추가 (2025.05.12 기준)
+
 
