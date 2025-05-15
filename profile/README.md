@@ -115,6 +115,9 @@
 </br>
 </br>
 <h3 tabindex="-1" class="heading-element" dir="auto">Kanban Board</h3>
-- GitHub Project 칸반보드 캡쳐본 추가 (2025.05.12 기준)
+- GitHub Project 칸반보드
+
+![image](https://github.com/user-attachments/assets/3c74191a-110c-4548-bfc1-bbc063f4b590)
+
 
 
