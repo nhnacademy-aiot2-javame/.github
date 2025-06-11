@@ -95,7 +95,8 @@
 [System Architecture]
 </br>
   
-![스크린샷 2025-05-12 15-09-40](https://github.com/user-attachments/assets/c233e936-7909-4957-a89d-a27b8af9e251)
+![image](https://github.com/user-attachments/assets/223cab3e-f5bb-472d-8bd5-b61e565c3e5d)
+
 </br>
 사용자가 OpenTelemetry와 Telegraf를 설치한 후 Catch Server가 제공하는 Config 규칙과 제공하는 명령어에 맞게 입력합니다. <p>
 Collector로 데이터가 전송되고 이후 Collector의 Node-Red에서 수집한 데이터를 Mqtt로 변환합니다.  <p>
@@ -111,7 +112,8 @@ Trans 서비스에서 이상치 검증 및 전처리 후 Influx DB에 저장됩�
 </br>
 </br>
 
-![image](https://github.com/user-attachments/assets/3e7e17ba-4ad7-423c-88e2-0a5894c36696)
+![image](https://github.com/user-attachments/assets/6895ad14-8f84-4a16-80d3-bc2f50ea9c15)
+
 
 </div>
 </br>
