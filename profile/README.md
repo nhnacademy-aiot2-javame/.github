@@ -82,8 +82,6 @@
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nhnacademy-aiot2-javame&repo=javame-warnify-service)](https://github.com/nhnacademy-aiot2-javame/javame-warnify-service)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nhnacademy-aiot2-javame&repo=javame-rule-api)](https://github.com/nhnacademy-aiot2-javame/javame-rule-api)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nhnacademy-aiot2-javame&repo=javame-environment-api)](https://github.com/nhnacademy-aiot2-javame/javame-environment-api)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nhnacademy-aiot2-javame&repo=javame-ai-prediction)](https://github.com/nhnacademy-aiot2-javame/javame-ai-prediction)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nhnacademy-aiot2-javame&repo=javame-mqtt)](https://github.com/nhnacademy-aiot2-javame/javame-mqtt)
 
 <br>
 </div>
