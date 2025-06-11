@@ -97,13 +97,25 @@
   
 ![스크린샷 2025-05-12 15-09-40](https://github.com/user-attachments/assets/c233e936-7909-4957-a89d-a27b8af9e251)
 </br>
---- 우리 시스템 전체에 대한 흐름 설명 적기--</br>
---클라이언트의 요청은 뭐로 들어오고 어떤 서비스들이 유레카에 등록되어서 gateway에 도착한 요청을 처리하는지---
+사용자가 OpenTelemetry와 Telegraf를 설치한 후 Catch Server가 제공하는 Config 규칙과 제공하는 명령어에 맞게 입력합니다. <p>
+Collector로 데이터가 전송되고 이후 Collector의 Node-Red에서 수집한 데이터를 Mqtt로 변환합니다.  <p>
+변환한 데이터는 경남 서버에 있는 Mqtt BRoker를 통해 저희의 Trans Service로 도달합니다.<p>
+Trans 서비스에서 이상치 검증 및 전처리 후 Influx DB에 저장됩니다. <p>
+저장된 데이터들은 AI와 Server-Environment가 각자 자원 사용량과 평균값, 최대값, 최소값을 구하기 위해 사용되고<p>
+모든 서비스에서 나오는 결과값 대부분은 MySQL에 저장되어 front에서 API 호출시 보여집니다.
+
+<br>
+</br>
+</br>
+[Erd Diagram]
+</br>
 </br>
 
 ![image](https://github.com/user-attachments/assets/3e7e17ba-4ad7-423c-88e2-0a5894c36696)
 
 </div>
+</br>
+</br>
 <h2>Project Management</h2>
 <h3 tabindex="-1" class="heading-element" dir="auto">WBS</h3>
 - googleSpreadsheet를 이용한 일정 관리(2025.05.12 기준)
