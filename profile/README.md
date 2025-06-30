@@ -116,6 +116,11 @@ Trans 서비스에서 이상치 검증 및 전처리 후 Influx DB에 저장됩�
 
 
 </div>
+&nbsp;
+<h2 align="center"> 🍉 프로젝트 소개 발표 + 시연 영상</h2>
+<br> 
+<h3 align="center">https://www.youtube.com/watch?app=desktop&v=KqQ0rFRoUlU </h3>
+
 </br>
 </br>
 <h2>Project Management</h2>
